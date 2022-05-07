@@ -1,7 +1,7 @@
 Desafio #1: Banco de Currículos
 A empresa JobsNET especialista em recrutamento e seleção de profissionais nas mais diversas áreas solicitou para a nossa fábrica de software desenvolver uma página para atração de profissionais para conectar as oportunidades de emprego.
 
-.[JobsNet](https://monafmenezes.github.io/bando-de-curriculos/)
+[JobsNet](https://monafmenezes.github.io/banco-de-curriculos/)
 
 Frontend
 Fase 1 - Criação da Página
